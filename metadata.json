@@ -1,0 +1,6 @@
+{
+  "name": "SafeGuard",
+  "description": "Advanced Parental Control & Child Safety app with screen time limits, real-time location tracking, geofencing, remote consent-based live streaming, and child safety dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
